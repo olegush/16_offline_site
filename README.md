@@ -1,6 +1,10 @@
 # New Site Template
 
-[TODO. There will be project description]
+This is website template for working offline - all external files (css, js etc) put in th **static** directory
+
+# Quickstart
+
+After the pilot says 'switch off mobiles', just open **index.html** in your favourite html-editor and have a productive flight:)
 
 # Project Goals
 
